@@ -14,12 +14,6 @@
 > :warning: **Please**: Do not repeat the actions of The Fifth Column. If too many people start doing this, who knows what playing minecraft will be like then.
 
 
-## Seen us?
-#### Start a discussion!
-![creeper_dot_sh](https://user-images.githubusercontent.com/6983255/111061985-463c9d00-84fa-11eb-98e1-b175faa6aaef.png)
-![creeper_dot_sh](https://user-images.githubusercontent.com/6983255/111061986-49d02400-84fa-11eb-83cf-7888568c9ef2.png)
-
-
 # What's it do?
 Uses [masscan](https://github.com/robertdavidgraham/masscan/) to scan the internet for Minecraft® servers,
 then uses Dinnerbone's [mcstatus](https://dinnerbone.com/minecraft/tools/status/) to grab the GameSpy3 data,
@@ -47,12 +41,6 @@ Various reactions ensue, from "Hello?" to...
 ### Connection Lost
 #### You are banned from this server.
 
-# Don't forget!
-If you have the chance, inform the server owners that their home router (if applicable) has its port
-exposed to the internet, and should either close it, or use a whitelist.
-
-Some people just forget, or don't understand what they are doing. 
-
 # Screenshots
 ##### Starting a scan of 1 million AT&T routers (took 3 minutes)
 ![csh01](https://user-images.githubusercontent.com/6983255/111035107-f368d400-846c-11eb-8c88-670e83d16077.png)
@@ -68,10 +56,3 @@ Some people just forget, or don't understand what they are doing.
 
 ##### Completed scan after `mcstatus` and `mcc` have finished.
 ![csh05](https://user-images.githubusercontent.com/6983255/111035361-48f1b080-846e-11eb-9268-2043acfdc7a2.png)
-
-
-
-
-
-
->"Minecraft" is a trademark of Mojang Synergies AB.
